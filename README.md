@@ -4,3 +4,4 @@ Quickstart Repository
 
 > Reading the GitHub Docs GuideLines.
 > It seems very useful, let's keep learning.
+> Watching a video about Git/Github basics.
